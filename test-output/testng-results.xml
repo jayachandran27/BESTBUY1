@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-01T12:56:43 IST" name="Suite" finished-at="2023-06-01T13:01:30 IST" duration-ms="287295">
+    <groups>
+    </groups>
+    <test started-at="2023-06-01T12:56:43 IST" name="Test" finished-at="2023-06-01T13:01:30 IST" duration-ms="287295">
+      <class name="testcases.Searchproducttest">
+        <test-method is-config="true" signature="startup()[pri:0, instance:testcases.Searchproducttest@44821a96]" started-at="2023-06-01T12:56:43 IST" name="startup" finished-at="2023-06-01T12:56:56 IST" duration-ms="12821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method signature="searchbox()[pri:0, instance:testcases.Searchproducttest@44821a96]" started-at="2023-06-01T12:56:56 IST" name="searchbox" finished-at="2023-06-01T12:57:32 IST" duration-ms="35624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbox -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Searchproducttest@44821a96]" started-at="2023-06-01T12:57:32 IST" name="close" finished-at="2023-06-01T12:57:32 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.Searchproducttest -->
+      <class name="testcases.Signuptest">
+        <test-method is-config="true" signature="startup()[pri:0, instance:testcases.Signuptest@272ed83b]" started-at="2023-06-01T13:01:06 IST" name="startup" finished-at="2023-06-01T13:01:18 IST" duration-ms="12329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method signature="newacnyt()[pri:0, instance:testcases.Signuptest@272ed83b]" started-at="2023-06-01T13:01:18 IST" name="newacnyt" finished-at="2023-06-01T13:01:30 IST" duration-ms="11785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newacnyt -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Signuptest@272ed83b]" started-at="2023-06-01T13:01:30 IST" name="close" finished-at="2023-06-01T13:01:30 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.Signuptest -->
+      <class name="testcases.Select_by_brandstest">
+        <test-method is-config="true" signature="startup()[pri:0, instance:testcases.Select_by_brandstest@732c2a62]" started-at="2023-06-01T12:59:55 IST" name="startup" finished-at="2023-06-01T13:00:10 IST" duration-ms="15134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method signature="bybrands()[pri:0, instance:testcases.Select_by_brandstest@732c2a62]" started-at="2023-06-01T13:00:10 IST" name="bybrands" finished-at="2023-06-01T13:01:06 IST" duration-ms="55610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bybrands -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Select_by_brandstest@732c2a62]" started-at="2023-06-01T13:01:06 IST" name="close" finished-at="2023-06-01T13:01:06 IST" duration-ms="414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.Select_by_brandstest -->
+      <class name="testcases.Select_by_departmenttest">
+        <test-method is-config="true" signature="startup()[pri:0, instance:testcases.Select_by_departmenttest@a3d8174]" started-at="2023-06-01T12:57:32 IST" name="startup" finished-at="2023-06-01T12:57:45 IST" duration-ms="13296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method signature="dept()[pri:0, instance:testcases.Select_by_departmenttest@a3d8174]" started-at="2023-06-01T12:57:45 IST" name="dept" finished-at="2023-06-01T12:58:56 IST" duration-ms="71129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dept -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Select_by_departmenttest@a3d8174]" started-at="2023-06-01T12:58:56 IST" name="close" finished-at="2023-06-01T12:58:57 IST" duration-ms="1145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.Select_by_departmenttest -->
+      <class name="testcases.Logintest">
+        <test-method is-config="true" signature="startup()[pri:0, instance:testcases.Logintest@1ba9117e]" started-at="2023-06-01T12:58:57 IST" name="startup" finished-at="2023-06-01T12:59:16 IST" duration-ms="18849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method signature="login()[pri:1, instance:testcases.Logintest@1ba9117e]" started-at="2023-06-01T12:59:16 IST" name="login" finished-at="2023-06-01T12:59:33 IST" duration-ms="16348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Logintest@1ba9117e]" started-at="2023-06-01T12:59:33 IST" name="close" finished-at="2023-06-01T12:59:33 IST" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="startup()[pri:0, instance:testcases.Logintest@1ba9117e]" started-at="2023-06-01T12:59:33 IST" name="startup" finished-at="2023-06-01T12:59:48 IST" duration-ms="14661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method signature="loginwithinvalid()[pri:2, instance:testcases.Logintest@1ba9117e]" started-at="2023-06-01T12:59:48 IST" name="loginwithinvalid" finished-at="2023-06-01T12:59:54 IST" duration-ms="6772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithinvalid -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Logintest@1ba9117e]" started-at="2023-06-01T12:59:54 IST" name="close" finished-at="2023-06-01T12:59:55 IST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.Logintest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
